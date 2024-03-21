@@ -6,6 +6,9 @@ This project is a simple game where the player must collect all the items on the
 
 MLX - The MinilibX is a simple X-Window programming API in C, designed for students, suitable for beginners.
 
+![ScreenRecording2024-03-21at13 13 12-ezgif com-video-to-gif-converter](https://github.com/mherrezu/42-so_long/assets/114182402/e20bbe6b-7ca0-43b1-8d34-61588387efe1)
+
+
 # :computer: Technologies
 
 This Project was made with:
